@@ -1,1 +1,1 @@
-# odin-recipes
+This project will be one in which I believe recipes should be laid out in an html file. According to the assignment so far, I am only creating it in html, without a css page. # odin-recipes
