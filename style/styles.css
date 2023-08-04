@@ -1,0 +1,43 @@
+#img{
+    width: autopx;
+    height: 600px;
+}
+.para{
+    font-family: Garamond, 'Times New Roman', Times, sans-serif;
+}
+h1{
+    font-size: 64px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-style: italic;
+    font-size: 32px;
+}
+li{
+    font-size: 24px;
+}
+.title{
+    margin: 0px auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+.lists,.lists2,.lists3{
+    display: block;
+    margin: 32px 16px;
+    padding: 18px 38px;
+    width: 200px;
+}
+.lists{
+    
+    background-color: grey;
+    
+    color: white;
+}
+.lists2{
+    background-color: orange;
+    color: #00FF30;
+}
+.lists3{
+    background-color: green;
+    color: #004FFF;
+}
